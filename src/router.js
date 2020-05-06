@@ -29,7 +29,8 @@ export const router = kea({
       search,
       hash,
       initial
-    })
+    }),
+    updateQuery: true
   }),
 
   reducers: ({ actions }) => ({

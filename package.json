@@ -93,6 +93,8 @@
     "rollup-plugin-node-resolve": "^4.2.3"
   },
   "dependencies": {
+    "lodash.isequal": "^4.5.0",
+    "query-string": "^6.11.1",
     "url-pattern": "^1.0.3"
   }
 }
